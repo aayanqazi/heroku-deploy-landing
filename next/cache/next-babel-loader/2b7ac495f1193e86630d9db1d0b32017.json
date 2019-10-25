@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nconst ProcessItem = styled.div.withConfig({\n  displayName: \"processstyle__ProcessItem\",\n  componentId: \"b1ufkn-0\"\n})([\"position:relative;\"]);\nexport default ProcessItem;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nconst SectionWrapper = styled.section.withConfig({\n  displayName: \"trialstyle__SectionWrapper\",\n  componentId: \"sc-4o2976-0\"\n})([\"background:linear-gradient(to bottom,#ffffff 0%,#f3f6f8 50%,#f3f6f8 100%);padding:50px 0 200px 0;\"]);\nexport default SectionWrapper;","map":null,"metadata":{},"sourceType":"module"}

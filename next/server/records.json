@@ -1,0 +1,83 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/_app.js": 0,
+      "multi private-next-pages/_document.js": 1,
+      "multi private-next-pages/_error.js": 2,
+      "multi private-next-pages/agency.js": 3,
+      "multi private-next-pages/app.js": 4,
+      "multi private-next-pages/appclassic.js": 5,
+      "multi private-next-pages/charity.js": 6,
+      "multi private-next-pages/crypto.js": 7,
+      "multi private-next-pages/hosting.js": 8,
+      "multi private-next-pages/icons.js": 9,
+      "multi private-next-pages/index.js": 10,
+      "multi private-next-pages/interior.js": 11,
+      "multi private-next-pages/portfolio.js": 12,
+      "multi private-next-pages/ride.js": 13,
+      "multi private-next-pages/saas.js": 14,
+      "multi private-next-pages/saasclassic.js": 15,
+      "multi private-next-pages/saasmodern.js": 16
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\_app.js": 0,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\_document.js": 1,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\_error.js": 2,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\agency.js": 3,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\app.js": 4,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\appclassic.js": 5,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\charity.js": 6,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\crypto.js": 7,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\hosting.js": 8,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\icons.js": 9,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\index.js": 10,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\interior.js": 11,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\portfolio.js": 12,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\ride.js": 13,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\saas.js": 14,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\saasclassic.js": 15,
+      "static\\omiTdQF3OqIw8nqM95yNL\\pages\\saasmodern.js": 16
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
